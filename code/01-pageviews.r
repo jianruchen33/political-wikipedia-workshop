@@ -31,6 +31,7 @@ browseURL("https://dumps.wikimedia.org/other/pagecounts-ez/")
 # no data available prior to July 2015!
 
 # functionality
+search()
 ls("package:pageviews")
 
 # get pageviews
